@@ -1,0 +1,71 @@
+/* add css module styles here (optional) */
+._3ljpl {
+  background-color: #3a80d6;
+  width: 135px;
+  height: 35px;
+  border-radius: 7px;
+  border: 1px solid #3a80d6;
+  color: white;
+}
+
+._3ljpl:hover {
+  background-color: #6eacf7;
+  cursor: pointer;
+}
+
+._3UK6o {
+  width: 135px;
+  height: 35px;
+  border-radius: 7px;
+  border: 1px solid rgba(0, 0, 0, 0.205);
+  background-color: white;
+}
+
+._3UK6o:hover {
+  cursor: pointer;
+  color: #3a80d6;
+  border-color: #3a80d6;
+}
+
+._27xYC {
+  width: 135px;
+  height: 35px;
+  border-radius: 7px;
+  border: 1px dashed #6eacf7;
+  background-color: white;
+}
+
+._27xYC:hover {
+  cursor: pointer;
+  color: #3a80d6;
+  border-color: #3a80d6;
+}
+
+._5bXm4 {
+  width: 135px;
+  height: 35px;
+  background-color: white;
+  border: 1px solid white;
+  border-radius: 7px;
+  border-color: white;
+
+}
+
+._5bXm4:hover {
+  background-color: rgba(0, 0, 0, 0.048);
+  cursor: pointer;
+}
+
+._71S8l {
+  width: 135px;
+  height: 35px;
+  background-color: white;
+  border: 1px solid white;
+  border-radius: 7px;
+  border-color: white;
+}
+
+._71S8l:hover {
+  cursor: pointer;
+  color: #3a80d6;
+}
